@@ -1,2 +1,2 @@
 # hello-world
-Getting started with gitHub
+Typing different messages in the read me :).
